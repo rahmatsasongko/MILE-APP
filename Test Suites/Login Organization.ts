@@ -17,10 +17,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login Organisasi/TC_1</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>d837fbd2-1e96-4ee1-bdb2-68bc8dfa33a4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Login Organisasi/TC_2</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>
